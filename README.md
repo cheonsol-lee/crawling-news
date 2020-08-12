@@ -29,7 +29,8 @@ import os
 
 ----------
 ### 4. 실행방법
-* language, item, news를 입력하면 xx/xx/xx.txt 형태의 파일이 생성된다.
+* language, item, news를 입력하면 xx/xx/xx.txt 형태의 파일이 생성된다.(단, news는 조건문에서 대문자로 통일한다.)
+  * ex) English/hemp/CNN/Should CBD become a part of your wellness routine in these troubling times.txt
 * url에 해당 기사의 url을 입력한다.
 * Run의 crawling()함수를 실행하면 설정한 경로에 '기사제목.txt'형태의 파일이 생성된다.
   * ex) 기사제목.txt

@@ -21,10 +21,10 @@
 ----------
 ### 3. 설치할 것
 
-import requests
-from bs4 import BeautifulSoup
-import re
-import os
+* import requests
+* from bs4 import BeautifulSoup
+* import re
+* import os
 
 
 ----------

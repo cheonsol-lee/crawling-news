@@ -1,4 +1,4 @@
-# rawling-news
+# Crawling-news
 국내/외 뉴스 크롤링
 
 #### *Made by cheonsol lee - Updated(2020.08.12)* ####
